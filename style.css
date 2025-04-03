@@ -2,11 +2,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
 
 :root{
-    --cor-de-fundo:#050a4e;
-    --branco:#FFFFFF;
+    --cor-de-fundo:#5691eb;
+    --branco:#000000;
     --preto:#000000;
     --botao-ativo:#000000be;
-    --botao: #5254e4;
+    --botao: #7476da;
     --botao-inativo: #FFFFFF;
 }
 
@@ -124,11 +124,6 @@ display: block;
     grid-template-columns: 50% 50%;
 }
 
-.tiago{
-    border-radius: 20px;
-    width: 180px;
-    height: 101px;
-}
   
 .by{
     text-align: right;
